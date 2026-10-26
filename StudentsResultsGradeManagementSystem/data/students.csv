@@ -1,0 +1,12 @@
+StudentID,FullName,RollNumber,Department,Semester,Email
+STU001,Rahul Sharma,22CS101,Computer Science,4th Semester,rahul.sharma@example.com
+STU002,Priya Patel,22CS102,Computer Science,4th Semester,priya.patel@example.com
+STU003,Amit Kumar,22CS103,Computer Science,4th Semester,amit.kumar@example.com
+STU004,Sneha Reddy,22CS104,Computer Science,4th Semester,sneha.reddy@example.com
+STU005,Vikram Singh,22CS105,Computer Science,4th Semester,vikram.singh@example.com
+STU006,Ananya Gupta,22CS106,Computer Science,4th Semester,ananya.gupta@example.com
+STU007,Rohan Mehta,22CS107,Computer Science,4th Semester,
+STU008,Kavitha Nair,22CS108,Computer Science,4th Semester,kavitha.nair@example.com
+STU009,Arjun Das,22CS109,Computer Science,4th Semester,
+STU010,Divya Iyer,22CS110,Computer Science,4th Semester,divya.iyer@example.com
+1,Vinay,26885A0549,CSE,3rd Semester,me@gmail.com

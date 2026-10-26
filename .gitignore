@@ -1,0 +1,31 @@
+# Compiled Java class files
+*.class
+out/
+StudentsResultsGradeManagementSystem/out/
+bin/
+
+# LaTeX auxiliary files (preserving final PDFs)
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE and Editor configurations
+.idea/
+*.iml
+.vscode/
+*.suo
+*.user
